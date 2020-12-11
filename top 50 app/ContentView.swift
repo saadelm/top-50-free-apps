@@ -57,7 +57,9 @@ struct ExtractedView: View {
             Text(app.releaseDate ??  "")
                 .font(.system(size: 8, weight: .semibold))
             Spacer()
-           
+            Spacer()
+            Spacer()
+
             }
         }
     }
